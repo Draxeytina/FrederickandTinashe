@@ -1,8 +1,4 @@
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
+
   @media screen and (max-width: 600px) {
     body {
       background-color: olive;
@@ -15,4 +11,9 @@ ul {
   .navbar{
       position: fixed;
       top: 0;
+      text-decoration: aqua;
+  }
+  .header{
+    text-align: center;
+    text-emphasis-color: rgb(255, 60, 0);
   }
